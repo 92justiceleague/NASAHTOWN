@@ -1,0 +1,17 @@
+font-family: 'Ibarra Real Nova', serif;
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+}
+
+BODY{
+    MARGIN: 0;
+}
+.main-container {
+    background-color: black;
+    height: 100%;
+    outline-color: darkblue;
+
+    font-family: ;
