@@ -15,3 +15,6 @@ BODY{
     outline-color: darkblue;
 
     font-family: 'ibarra real nova', serif;
+.container {
+    flex-direction: row
+}
